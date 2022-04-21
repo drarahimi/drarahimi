@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on multiple projects
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on educational projects
+- 🤔 I’m looking for help with coding and technical skills
+- 💬 Ask me about coding, mechanical and aerospace engineering, entrepreneurship
+- 📫 How to reach me: <a href="https://github.com/drarahimi">www.arahimi.ca</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a professor at the University of Windsor
+
 <a href="https://github.com/drarahimi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drarahimi&theme=algolia&show_icons=true&include_all_commits=true" />
 </a>
@@ -15,12 +25,4 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
