@@ -7,7 +7,6 @@
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarahimi&theme=algolia&layout=compact" />
 </a>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=drarahimi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
