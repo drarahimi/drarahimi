@@ -10,9 +10,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a professor at the University of Windsor
 
-<a href="https://github.com/drarahimi">
+<!--<a href="https://github.com/drarahimi">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drarahimi&theme=algolia&show_icons=true&include_all_commits=true" />
 </a>
+-->
 <a href="https://github.com/drarahimi">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarahimi&theme=algolia&langs_count=8" />
 </a>
