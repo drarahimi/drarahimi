@@ -95,7 +95,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="News",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
+#EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/axxUWWN.png" group-title="Music",Radio Javan TV (1080p)
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-logo="https://i.imgur.com/5voEagF.png" group-title="General",Tapesh Iran
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
