@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-logo="https://i.imgur.com/A8aOFxo.png" group-title="News",Simaye Azadi (1080p)
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p) [Not 24/7]
@@ -47,7 +49,7 @@ https://live.aionet.ir/hls/nasim/nasim.m3u8
 https://live.aionet.ir/hls/salamat/salamat.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/xe5KwWS.png" group-title="Series",IRIB Tamasha (540p)
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/bzxAadP.png" group-title="Sports",IRIB Varzesh (1080p)
+#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/2f62d9e.png" group-title="Sports",IRIB Varzesh (1080p)
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
@@ -87,9 +89,9 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/AbrHI7K.png" group-title="Music",PMC (1080p)
+#EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/kuYMKgG.png" group-title="Music",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC Royale (720p) [Not 24/7]
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="News",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
