@@ -32,8 +32,8 @@ https://af.ayas.ir/hls2/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="General",IRIB2
 https://af.ayas.ir/hls2/tv2.m3u8
 #EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Sports",IRIB3
-https://cdn-azd2055.telewebion.com/tv3/live/1080p/index.m3u8
 https://edge09.97588.ir.cdn.ir/hls2/tv3.m3u8
+https://cdn-azd2055.telewebion.com/tv3/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="General",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="General",IRIB5 (540p)
