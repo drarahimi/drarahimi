@@ -3,7 +3,7 @@
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p)
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series (720p)
 https://avaserieshls.wns.live/hls/stream.m3u8
@@ -23,7 +23,7 @@ https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://i.pinimg.com/280x280_RS/d9/85/73/d98573137a42da04c1d233a746f8d5df.jpg" group-title="News",Iran Press (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="IranPress.ir" tvg-logo="https://i.pinimg.com/280x280_RS/d9/85/73/d98573137a42da04c1d233a746f8d5df.jpg" group-title="News",Iran Press (480p)
 https://ip2stream.iranpress.com/hls/ip2.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.us" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",IraneFarda TV (576p)
 https://hls.iranfarda.live/hls/stream.m3u8
@@ -53,7 +53,7 @@ https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/lal24Vo.png" group-title="Entertainment",ITN (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/lal24Vo.png" group-title="Entertainment",ITN (720p)
 https://itnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-logo="https://www.lyngsat.com/logo/tv/mm/meta-film-tv.png" group-title="Movies",Meta Film TV (1080p)
 https://metafilmhls.wns.live/hls/stream.m3u8
@@ -61,7 +61,7 @@ https://metafilmhls.wns.live/hls/stream.m3u8
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 tvg-id="ParsTV.ir" tvg-logo="https://i.imgur.com/RQ5DzEE.png" group-title="Undefined",Pars
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Movies",Persian Film (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/AB0BaaA.png" group-title="Movies",Persian Film (720p)
 https://pfilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -91,7 +91,7 @@ https://af.ayas.ir/hls2/persiana.m3u8
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC Royale (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC Royale (720p)
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="News",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
@@ -99,7 +99,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-logo="https://i.imgur.com/5voEagF.png" group-title="General",Tapesh Iran
 https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
-#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/0zlnbzr.png" group-title="Entertainment",YourTime TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://i.imgur.com/0zlnbzr.png" group-title="Entertainment",YourTime TV (720p)
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AvangTV.us" tvg-logo="https://i.imgur.com/nuLg4pe.png" group-title="Music",Avang TV (720p)
 https://hls.avang.live/hls/stream.m3u8
@@ -113,7 +113,7 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NegahTV.ir" tvg-logo="https://i.imgur.com/NFsBd4D.png" group-title="Entertainment",Negah TV (720p)
 https://iptv.negahtv.com/negahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="https://i.imgur.com/CKnSRQ1.png" group-title="Entertainment",Omide Iran (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="https://i.imgur.com/CKnSRQ1.png" group-title="Entertainment",Omide Iran (720p)
 https://oitnhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="VoATVPersian.us" tvg-logo="https://i.imgur.com/nvMqtG5.png" group-title="News",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
