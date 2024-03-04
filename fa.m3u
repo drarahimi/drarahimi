@@ -39,7 +39,7 @@ https://live.aionet.ir/hls/tv4/tv4.m3u8
 https://live.aionet.ir/hls/tv5/tv5.m3u8
 #EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/Of2UF8Z.png" group-title="General",IRIB Amouzesh (540p)
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
-#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="General",IRIB Mostanad (540p)
+#EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/xAQGhgP.png" group-title="General",IRIB Mostanad (540p)
 https://live.aionet.ir/hls/mostanad/mostanad.m3u8
 #EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/71JnTnF.png" group-title="Movies",IRIB Namayesh (540p)
 https://live.aionet.ir/hls/namayesh/namayesh.m3u8
@@ -47,7 +47,7 @@ https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 https://live.aionet.ir/hls/nasim/nasim.m3u8
 #EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/mgcVd52.png" group-title="Undefined",IRIB Salamat (540p)
 https://live.aionet.ir/hls/salamat/salamat.m3u8
-#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/xe5KwWS.png" group-title="Series",IRIB Tamasha (540p)
+#EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/fXjohWl.png" group-title="Series",IRIB Tamasha (540p)
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-logo="https://i.imgur.com/2f62d9e.png" group-title="Sports",IRIB Varzesh (1080p)
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
