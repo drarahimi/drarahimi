@@ -87,7 +87,7 @@ https://raphls.persiana.live/hls/stream.m3u8
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaSports.fr" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-Sports.png" group-title="Sports",Persiana Sports (720p)
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-id="PersianaTwo.fr" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="General",Persiana Two
+#EXTINF:-1 tvg-id="PersianaTwo.fr" tvg-logo="https://i.imgur.com/Oz6VSkP.png" group-title="General",Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMC.ae" tvg-logo="https://i.imgur.com/wLInb56.png" group-title="Music",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
