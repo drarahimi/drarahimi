@@ -7,7 +7,7 @@ https://hls.4utv.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVASeries.ir" tvg-logo="https://i.imgur.com/8AfAfZE.png" group-title="Series",AVA Series (720p)
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies;Series",Bravo Farsi TV (360p)
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.imgur.com/e3hikHy.png" group-title="Movies;Series",Bravo Farsi TV (360p)
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us" tvg-logo="https://i.imgur.com/igskUo0.png" group-title="Legislative",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
