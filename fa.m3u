@@ -111,7 +111,7 @@ https://kjhls.wns.live/hls/stream.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="NavahangTV.fi" tvg-logo="https://i.imgur.com/qyn82JW.png" group-title="Music",Navahang TV (720p)
 https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="NegahTV.ir" tvg-logo="https://i.imgur.com/NFsBd4D.png" group-title="Entertainment",Negah TV (720p)
+#EXTINF:-1 tvg-id="NegahTV.ir" tvg-logo="https://i.imgur.com/kCB4uXs.png" group-title="Entertainment",Negah TV (720p)
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="https://i.imgur.com/CKnSRQ1.png" group-title="Entertainment",Omide Iran (720p)
 https://oitnhls.wns.live/hls/stream.m3u8
