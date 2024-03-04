@@ -31,7 +31,7 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://af.ayas.ir/hls2/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="General",IRIB2
 https://af.ayas.ir/hls2/tv2.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/LUV5cYZ.png" group-title="Sports",IRIB3
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/0oO9NFL.png" group-title="Sports",IRIB3
 https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/Y8BFKgw.png" group-title="General",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
