@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SimayeAzadi.uk" tvg-logo="https://i.imgur.com/A8aOFxo.png" group-title="News",Simaye Azadi (1080p)
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/PexhKwp.png" group-title="Entertainment",4U TV (720p)
+#EXTINF:-1 tvg-id="4UTV.tr" tvg-logo="https://i.imgur.com/0avyCUE.png" group-title="Entertainment",4U TV (720p)
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="Family",AVA Family (720p)
 https://familyhls.avatv.live/hls/stream.m3u8
