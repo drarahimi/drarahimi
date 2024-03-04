@@ -11,7 +11,7 @@ https://avaserieshls.wns.live/hls/stream.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ChannelOne.us" tvg-logo="https://i.imgur.com/igskUo0.png" group-title="Legislative",Channel Yek (720p)
 https://ch1hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX1.ir" tvg-logo="https://i.imgur.com/PpkucD8.png" group-title="Movies",FX1 Farsi (720p)
+#EXTINF:-1 tvg-id="FX1.ir" tvg-logo="https://i.imgur.com/jzmGXbe.png" group-title="Movies",FX1 Farsi (720p)
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="iFilm2.ir" tvg-logo="https://i.imgur.com/aKDTp5U.png" group-title="Movies",iFilm 2
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/playlist.m3u8
@@ -69,7 +69,7 @@ https://cinehls.persiana.live/hls/stream.m3u8
 https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaFamily.fr" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="Movies",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="Movies",Persiana HD
+#EXTINF:-1 tvg-id="PersianaHD.fr" tvg-logo="https://i.imgur.com/ISAdG7y.png" group-title="Movies",Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaIranian.fr" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="Movies",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
