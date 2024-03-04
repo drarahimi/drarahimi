@@ -27,23 +27,23 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 https://ip2stream.iranpress.com/hls/ip2.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.us" tvg-logo="https://i.imgur.com/ixgcgZY.png" group-title="News",IraneFarda TV (576p)
 https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/q2Hmifv.png" group-title="General",IRIB1
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-logo="https://i.imgur.com/0jhvyQu.png" group-title="General",IRIB1
 https://af.ayas.ir/hls2/tv1.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-logo="https://i.imgur.com/H6OJRJP.png" group-title="General",IRIB2
 https://af.ayas.ir/hls2/tv2.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/vXLUBBn.png" group-title="Sports",IRIB3
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-logo="https://i.imgur.com/LUV5cYZ.png" group-title="Sports",IRIB3
 https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8
-#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/tN0XqHY.png" group-title="General",IRIB4 (540p)
+#EXTINF:-1 tvg-id="IRIB4.ir" tvg-logo="https://i.imgur.com/Y8BFKgw.png" group-title="General",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/zUnr6qt.png" group-title="General",IRIB5 (540p)
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="https://i.imgur.com/FGHGmRk.png" group-title="General",IRIB5 (540p)
 https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/su89TyX.png" group-title="General",IRIB Amouzesh (540p)
+#EXTINF:-1 tvg-id="AmouzeshTV.ir" tvg-logo="https://i.imgur.com/Of2UF8Z.png" group-title="General",IRIB Amouzesh (540p)
 https://live.aionet.ir/hls/amoozesh/amoozesh.m3u8
 #EXTINF:-1 tvg-id="IRIBMostanad.ir" tvg-logo="https://i.imgur.com/TN7B7tB.png" group-title="General",IRIB Mostanad (540p)
 https://live.aionet.ir/hls/mostanad/mostanad.m3u8
 #EXTINF:-1 tvg-id="NamayeshTV.ir" tvg-logo="https://i.imgur.com/fXgwiRu.png" group-title="Movies",IRIB Namayesh (540p)
 https://live.aionet.ir/hls/namayesh/namayesh.m3u8
-#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/jNaABGG.png" group-title="Entertainment",IRIB Nasim (540p)
+#EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/s0T8I6F.png" group-title="Entertainment",IRIB Nasim (540p)
 https://live.aionet.ir/hls/nasim/nasim.m3u8
 #EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/mgcVd52.png" group-title="Undefined",IRIB Salamat (540p)
 https://live.aionet.ir/hls/salamat/salamat.m3u8
