@@ -45,7 +45,7 @@ https://live.aionet.ir/hls/mostanad/mostanad.m3u8
 https://live.aionet.ir/hls/namayesh/namayesh.m3u8
 #EXTINF:-1 tvg-id="Nasim.ir" tvg-logo="https://i.imgur.com/s0T8I6F.png" group-title="Entertainment",IRIB Nasim (540p)
 https://live.aionet.ir/hls/nasim/nasim.m3u8
-#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/fyFvJ4A.png" group-title="Health",IRIB Salamat (540p)
+#EXTINF:-1 tvg-id="SalamatTV.ir" tvg-logo="https://i.imgur.com/fyFvJ4A.png" group-title="General",IRIB Salamat (540p)
 https://live.aionet.ir/hls/salamat/salamat.m3u8
 #EXTINF:-1 tvg-id="Tamasha.ir" tvg-logo="https://i.imgur.com/fXjohWl.png" group-title="Series",IRIB Tamasha (540p)
 https://live.aionet.ir/hls/tamasha/tamasha.m3u8
