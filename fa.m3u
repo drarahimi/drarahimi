@@ -54,8 +54,6 @@ https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 tvg-id="TVITN.ir" tvg-logo="https://i.imgur.com/lal24Vo.png" group-title="Entertainment",ITN (720p)
-https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVITN2.ir" tvg-logo="https://i.imgur.com/lal24Vo.png" group-title="Entertainment",ITN New
 https://livestream.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8?md5=SNC_aQ2In4HTlpAV-_-NHg&expires=1710905040
 #EXTINF:-1 tvg-id="MetaFilmTV.ir" tvg-logo="https://i.imgur.com/yFFSmb9.png" group-title="Movies",Meta Film TV (1080p)
 https://metafilmhls.wns.live/hls/stream.m3u8
