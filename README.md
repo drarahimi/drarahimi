@@ -2,7 +2,6 @@
 
 **Associate Professor** Department of Mechanical, Automotive, and Materials Engineering  
 **University of Windsor** 📍 **Location:** Windsor, Ontario, Canada  
-📧 **Email:** [arahimi@uwindsor.ca](mailto:arahimi@uwindsor.ca)  
 🌐 **Website:** [www.arahimi.ca](https://www.arahimi.ca/)  
 🔗 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=6wgDNw4AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/afshin-rahimi/) | [ResearchGate](https://www.researchgate.net/profile/Afshin-Rahimi)
 
@@ -44,7 +43,6 @@ A selection of recent work in control systems and aerospace engineering:
 
 ## 🏫 Teaching & Service
 
-* **Undergraduate Academic Advisor:** Mechatronics Systems Engineering.
 * **Graduate Supervision:** I actively supervise MASc and PhD students in the areas of controls, mechatronics, and aerospace.
 * **Commitment to EDI:** My group is dedicated to the principles of equity, diversity, and inclusion, ensuring a welcoming environment for researchers from all backgrounds.
 
@@ -52,7 +50,7 @@ A selection of recent work in control systems and aerospace engineering:
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Python, MATLAB/Simulink, C++
+* **Languages:** C#.Net, VB.Net, Python, MATLAB/Simulink, Javascript, CSS
 * **Domains:** Machine Learning (TensorFlow/PyTorch), Computer Vision, Embedded Systems, ROS (Robot Operating System).
 
 ---
